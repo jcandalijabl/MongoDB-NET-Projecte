@@ -1,0 +1,7 @@
+C:\Users\34623\source\repos\LibUF4JAN\LibUF4JAN\obj\Debug\LibUF4JAN.csproj.AssemblyReference.cache
+C:\Users\34623\source\repos\LibUF4JAN\LibUF4JAN\obj\Debug\LibUF4JAN.csproj.CoreCompileInputs.cache
+C:\Users\34623\source\repos\LibUF4JAN\LibUF4JAN\bin\Debug\LibUF4JAN.dll.config
+C:\Users\34623\source\repos\LibUF4JAN\LibUF4JAN\bin\Debug\LibUF4JAN.dll
+C:\Users\34623\source\repos\LibUF4JAN\LibUF4JAN\bin\Debug\LibUF4JAN.pdb
+C:\Users\34623\source\repos\LibUF4JAN\LibUF4JAN\obj\Debug\LibUF4JAN.dll
+C:\Users\34623\source\repos\LibUF4JAN\LibUF4JAN\obj\Debug\LibUF4JAN.pdb
